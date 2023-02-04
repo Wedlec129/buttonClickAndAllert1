@@ -1,7 +1,7 @@
 # buttonClickAndAllert1
 
 
-калькулятор для андроида
+тестеровщик уведомлений
 
 <p align="center">
       <img src="https://sun9-37.userapi.com/impg/E57-j5tOmbnBJ3BdkUZpjd-Uuo13DBNmJDO_Hw/CM1I16_vfz8.jpg?size=668x1406&quality=96&sign=4652d6a6c3b51cd462ba48f26701c495&type=album" width="726">
